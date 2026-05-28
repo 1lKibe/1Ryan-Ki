@@ -8,29 +8,39 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=1Ryan-Ki&label=Profile+Views&color=6e40c9&style=flat-square" alt="Profile views"/>
+  &nbsp;
+  <a href="https://1kibe.github.io/landpage/">
+    <img src="https://img.shields.io/badge/Portfolio-6e40c9?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-<br>
+<br/>
 
-### `> whoami`
+## 👨‍💻 About
 
-- 👤 **Ryan Adrian** — Back-End Developer
-- 🔭 Building REST APIs with **Java** · **Spring Boot**
-- 🗄️ Databases: MySQL · PostgreSQL · MariaDB · MongoDB
-- 🔐 Exploring DevOps · CI/CD · Cyber Security
-- 🌐 [1kibe.github.io/landpage](https://1kibe.github.io/landpage/)
-- 🚀 Always learning, always building
+Back-End Developer building **scalable** and **secure** REST APIs.
+My stack revolves around **Java**, **Spring Boot** and relational databases —
+with a growing interest in DevOps pipelines and Cyber Security.
+
+| | |
+|:--|:--|
+| 🔭 **Working on** | REST APIs · Spring Boot · JPA/Hibernate |
+| 🌱 **Currently learning** | Docker · CI/CD · DevSecOps |
+| 🎯 **Focus** | Clean Architecture · SOLID · High-performance systems |
+| 💬 **Ask me about** | Java · Spring Boot · Database design · API security |
+| 🌐 **Portfolio** | [1kibe.github.io/landpage](https://1kibe.github.io/landpage/) |
 
 ---
 
-### `> tech_stack`
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages & Frameworks**
+**Backend**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
 **Databases**
 
@@ -39,13 +49,13 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools & Environment**
+**DevOps & Tools**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
@@ -54,28 +64,16 @@
 
 ---
 
-### `> stats`
+## 📊 Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1Ryan-Ki&theme=tokyonight" height="165" alt="GitHub stats"/>
   <img src="https://streak-stats.demolab.com?user=1Ryan-Ki&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1Ryan-Ki&theme=tokyonight" width="95%" alt="Profile Details"/>
-</div>
-
 ---
 
-### `> activity`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1Ryan-Ki&theme=tokyo-night&hide_border=true&radius=8" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
-### `> contributions`
+## 🐍 Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/1Ryan-Ki/1Ryan-Ki/output/snake.svg" alt="Snake animation"/>
