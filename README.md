@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Ryan%20Adrian&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descColor=d4b8ff&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Ryan%20Adrian&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer&descColor=d4b8ff&descAlignY=58&descSize=20" width="100%"/>
 </div>
 
 <p align="center">
@@ -54,6 +54,14 @@ Status : Building scalable systems
 
 ---
 
+### `> trophies`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=1Ryan-Ki&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
 ### `> stats`
 
 <div align="center">
@@ -68,6 +76,10 @@ Status : Building scalable systems
 ---
 
 ### `> activity`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1Ryan-Ki&bg_color=1a1b27&color=a78bfa&line=6e40c9&point=a78bfa&area=true&area_color=6e40c9&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
 
 <div align="center">
   <picture>
