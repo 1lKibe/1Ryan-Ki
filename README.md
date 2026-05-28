@@ -58,11 +58,11 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1Ryan-Ki&theme=tokyonight" height="165" alt="GitHub stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1Ryan-Ki&theme=tokyonight" height="165" alt="Most Used Languages"/>
+  <img src="https://streak-stats.demolab.com?user=1Ryan-Ki&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=1Ryan-Ki&theme=tokyonight&border_radius=10&hide_border=true" height="165" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1Ryan-Ki&theme=tokyonight" width="95%" alt="Profile Details"/>
 </div>
 
 ---
