@@ -16,19 +16,16 @@
 
 <br/>
 
-## 👨‍💻 About
+## 👨‍💻 Sobre mim
 
-Back-End Developer building **scalable** and **secure** REST APIs.
-My stack revolves around **Java**, **Spring Boot** and relational databases —
-with a growing interest in DevOps pipelines and Cyber Security.
+Desenvolvedor **Back-End** construindo APIs REST escaláveis e seguras.
+Stack principal em **Java** e **Spring Boot**, com interesse crescente em DevOps e Segurança.
 
-| | |
-|:--|:--|
-| 🔭 **Working on** | REST APIs · Spring Boot · JPA/Hibernate |
-| 🌱 **Currently learning** | Docker · CI/CD · DevSecOps |
-| 🎯 **Focus** | Clean Architecture · SOLID · High-performance systems |
-| 💬 **Ask me about** | Java · Spring Boot · Database design · API security |
-| 🌐 **Portfolio** | [1kibe.github.io/landpage](https://1kibe.github.io/landpage/) |
+- 🔭 Trabalhando com **Spring Boot** · **JPA/Hibernate** · APIs REST
+- 🌱 Estudando **Docker** · **CI/CD** · **DevSecOps**
+- 🎯 Focado em Clean Architecture · SOLID · Alta performance
+- 💬 Me pergunte sobre Java · Spring Boot · Design de Banco de Dados
+- 🌐 [Portfólio](https://1kibe.github.io/landpage/)
 
 ---
 
