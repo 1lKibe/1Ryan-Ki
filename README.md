@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Ryan%20Adrian&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descColor=d4b8ff&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Ryan%20Adrian&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=45" width="100%"/>
 </div>
 
 <p align="center">
@@ -59,8 +59,8 @@ Status : Building scalable systems 🚀
 ### `> stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Ryan-Ki&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10&rank_icon=github&hide_border=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Ryan-Ki&layout=compact&langs_count=6&theme=tokyonight&border_radius=10&hide_border=true" height="165" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=1Ryan-Ki&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Ryan-Ki&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
 </div>
 
 <div align="center">
