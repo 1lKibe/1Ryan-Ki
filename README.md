@@ -30,7 +30,7 @@ Stack principal em **Java** e **Spring Boot**, com interesse crescente em DevOps
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=1Ryan-Ki&show_icons=true&include_all_commits=true&count_private=true&bg_color=F5EFEB&title_color=1A0800&text_color=1A0800&icon_color=6e40c9&border_color=C4A882" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=1Ryan-Ki&show_icons=true&include_all_commits=true&count_private=true&bg_color=F5EFEB&title_color=1A0800&text_color=1A0800&icon_color=1A0800&border_color=C4A882" height="165" alt="GitHub stats" />
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=1Ryan-Ki&layout=compact&langs_count=6&bg_color=F5EFEB&title_color=1A0800&text_color=1A0800&border_color=C4A882" height="165" alt="Most Used Languages" />
 </div>
 
