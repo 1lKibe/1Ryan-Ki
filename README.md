@@ -3,14 +3,14 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=520&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Relational+%26+NoSQL+Databases;DevOps+%7C+CI%2FCD+%7C+Security;Building+scalable+back-end+systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=CCCCCC&center=true&vCenter=true&width=520&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Relational+%26+NoSQL+Databases;DevOps+%7C+CI%2FCD+%7C+Security;Building+scalable+back-end+systems." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1Ryan-Ki&label=Profile+Views&color=6e40c9&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=1Ryan-Ki&label=Profile+Views&color=555555&style=flat-square" alt="Profile views"/>
   &nbsp;
   <a href="https://1kibe.github.io/landpage/">
-    <img src="https://img.shields.io/badge/Portfolio-6e40c9?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-555555?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -31,7 +31,7 @@ Stack principal em **Java** e **Spring Boot**, com interesse crescente em DevOps
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1Ryan-Ki&theme=github_dark" height="165" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1Ryan-Ki&theme=github_dark" height="165" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1Ryan-Ki&theme=github_dark" height="165" alt="Most Used Languages" />
 </div>
 
 ---
