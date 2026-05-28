@@ -15,11 +15,11 @@
 ### `> whoami`
 
 ```bash
-Name    : Ryan Adrian
-Role    : Back-End Developer
-Stack   : Java · Spring Boot · REST APIs
-Focus   : Databases · DevOps · Security
-Status  : Building scalable systems
+Name   : Ryan Adrian
+Role   : Back-End Developer
+Stack  : Java · Spring Boot · REST APIs
+Focus  : Databases · DevOps · Security
+Status : Building scalable systems
 ```
 
 ---
