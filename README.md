@@ -14,14 +14,12 @@
 
 ### `> whoami`
 
-```bash
-Name   : Ryan Adrian
-Role   : Back-End Developer
-Stack  : Java · Spring Boot · REST APIs
-Focus  : Databases · DevOps · Security
-Site   : https://1kibe.github.io/landpage/
-Status : Building scalable systems 🚀
-```
+- 👤 **Ryan Adrian** — Back-End Developer
+- 🔭 Building REST APIs with **Java** · **Spring Boot**
+- 🗄️ Databases: MySQL · PostgreSQL · MariaDB · MongoDB
+- 🔐 Exploring DevOps · CI/CD · Cyber Security
+- 🌐 [1kibe.github.io/landpage](https://1kibe.github.io/landpage/)
+- 🚀 Always learning, always building
 
 ---
 
@@ -59,8 +57,8 @@ Status : Building scalable systems 🚀
 ### `> stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Ryan-Ki&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Ryan-Ki&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1Ryan-Ki&theme=tokyonight" height="165" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1Ryan-Ki&theme=tokyonight" height="165" alt="Most Used Languages"/>
 </div>
 
 <div align="center">
