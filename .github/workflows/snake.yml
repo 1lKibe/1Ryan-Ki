@@ -13,7 +13,11 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: dist/snake.svg
+          # Platane/snk@v3 supports query-string color params in the output filename.
+          # snake-dark.svg uses GitHub's dark-mode contribution graph palette.
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?color_snake=green&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&color_bg=#0d1117
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
